@@ -11,4 +11,6 @@ The whole text is divided into eigth sections, covering
 - confidence intervals and hypothesis testing (Ch.6 and 7)
 - linear regression (Ch.8).
 
-These lecture notes are used for an Undergraduate course at the University of Nottingham
+At the end of each chapter, some revision exercises are listed. Answer keys are provided in the appendix.
+
+These lecture notes are used for an Undergraduate course in Quantitative Economics/Method and Mathematical Economics at the University of Nottingham (UoN)
